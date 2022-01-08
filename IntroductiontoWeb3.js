@@ -1,6 +1,8 @@
 //using macOS terminal
 // install node.js
 //npm install web3
+// open node console in the terminal 
+//type node
 
 var Web3 = require ('web3');
 
